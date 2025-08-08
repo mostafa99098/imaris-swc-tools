@@ -6,7 +6,7 @@
 #
 #    <CustomTools>
 #      <Menu>
-#       <Item name="SWC Importer v2.0" icon="Python3" tooltip="Import single SWC file into Imaris Filaments">
+#       <Item name="SWC Import (Single File)" icon="Python3" tooltip="Import single SWC file into Imaris Filaments">
 #         <Command>Python3XT::XTImportSWC(%i)</Command>
 #       </Item>
 #      </Menu>

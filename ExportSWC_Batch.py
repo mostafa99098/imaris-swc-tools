@@ -6,10 +6,10 @@
 #
 #    <CustomTools>
 #      <Menu>
-#       <Item name="SWC Exporter v2.0" icon="Python3" tooltip="Export SWC from selected Filaments object">
+#       <Item name="SWC Export (Single File)" icon="Python3" tooltip="Export SWC from selected Filaments object">
 #         <Command>Python3XT::XTExportSWC(%i)</Command>
 #       </Item>
-#       <Item name="SWC Exporter v2.0 (Batch)" icon="Python3" tooltip="Export SWC for all .ims files in folder and subfolders">
+#       <Item name="SWC Export (Batch Processing)" icon="Python3" tooltip="Export SWC for all .ims files in folder and subfolders">
 #         <Command>Python3XT::XTExportSWC_Batch(%i)</Command>
 #       </Item>
 #      </Menu>
